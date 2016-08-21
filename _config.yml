@@ -1,3 +1,4 @@
+layout_spectrum: 0.7588346616830677
 typography_spectrum: 0.7795562418177724
 color:
   brandStrength: 0.3332761113997549
@@ -5,16 +6,9 @@ color:
   saturation: 0.03611934999935329
   rhythmicContrast: 0.2056302458513528
   brandColors:
-    - '#25064D'
-    - '#36175E'
-    - '#553285'
-    - '#7B52AB'
-    - '#9768D1'
-layout_spectrum: 0.7588346616830677
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
 name: adormecida
-navigation:
-  - name: contato
-    id: 6699c384-eae5-4713-aca6-23ad9ef3a168
-    type: content
-title: adormecida
-description: primeira parte da trilogia das assassinas
