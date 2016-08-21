@@ -12,5 +12,9 @@ color:
     - '#9768D1'
 layout_spectrum: 0.7588346616830677
 name: adormecida
+navigation:
+  - name: contato
+    id: 6699c384-eae5-4713-aca6-23ad9ef3a168
+    type: content
 title: adormecida
 description: primeira parte da trilogia das assassinas
