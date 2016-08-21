@@ -1,17 +1,16 @@
 ---
-description: contato camilopellegrini@gmail.com
-dateModified: '2016-08-21T17:54:25.783Z'
-datePublished: '2016-08-21T17:54:40.317Z'
+description: contatocamilopellegrini@gmail.com
+dateModified: '2016-08-21T17:55:02.647Z'
+datePublished: '2016-08-21T17:55:03.164Z'
 title: ''
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-21-contato-camilopellegrinigmailcom.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: contatocamilopellegrinigmailcom/index.html
+_type: Blurb
 
 ---
 contato  
