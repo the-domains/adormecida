@@ -1,15 +1,30 @@
 ---
+datePublished: '2016-08-21T18:37:27.873Z'
+author: []
+via: {}
+metadata:
+  description: >-
+    Adormecida teve sua primeira montagem em 2003, no Sesc Copacabana. Primeira
+    parte da Trilogia das Assassinas, de Camilo Pellegrini. Ao falar com humor
+    ácido sobre poder, televisão, competição e discórdia, o texto se mostra
+    profundamente atual treze anos depois.
+  dateModified: '2016-08-21T17:48:06.301Z'
+  datePublished: '2016-08-21T17:48:06.301Z'
+  title: ''
+  author: []
+  publisher: {}
+  via: {}
+  sourcePath: >-
+    _posts/2016-08-21-adormecida-teve-sua-primeira-montagem-em-2003-no-sesc-copac.md
+dateModified: '2016-08-21T18:37:27.199Z'
+title: ''
+id: 1363a495-4dc8-4586-9e88-0002518e1ad9
+publisher: {}
 description: >-
   Adormecida teve sua primeira montagem em 2003, no Sesc Copacabana. Primeira
   parte da Trilogia das Assassinas, de Camilo Pellegrini. Ao falar com humor
   ácido sobre poder, televisão, competição e discórdia, o texto se mostra
   profundamente atual treze anos depois.
-dateModified: '2016-08-21T17:47:05.775Z'
-datePublished: '2016-08-21T17:48:06.301Z'
-title: ''
-author: []
-publisher: {}
-via: {}
 starred: false
 sourcePath: >-
   _posts/2016-08-21-adormecida-teve-sua-primeira-montagem-em-2003-no-sesc-copac.md
@@ -19,8 +34,6 @@ inNav: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/968cb3f5-27a5-43ba-a2cb-a4731259284f.jpg)
-
 Adormecida teve sua primeira montagem em 2003, no Sesc Copacabana. Primeira parte da Trilogia das Assassinas, de Camilo Pellegrini. Ao falar com humor ácido sobre poder, televisão, competição e discórdia, o texto se mostra profundamente atual treze anos depois.
 
 Ao testemunhar a noite insone de duas amigas, o espectador se depara com o obscuro programa televisivo "Desejo de Viver", onde os sonhos dos poucos sobreviventes se realizam. Comandados pela perniciosa apresentadora Desejo, que é também deusa das vontades nas horas vagas, as duas mulheres são estimuladas a cometer assassinatos para acumularem pontos. A vencedora pode escolher dominar o mundo, voltar no tempo pra consertar velhos deslizes ou até mesmo ter seu próprio programa de entrevistas! Para isso, basta eliminar quem estiver no caminho e suspirar ao microfone seu pedido.
