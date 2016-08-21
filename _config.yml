@@ -1,0 +1,14 @@
+layout_spectrum: 0.7588346616830677
+typography_spectrum: 0.7795562418177724
+color:
+  brandStrength: 0.3332761113997549
+  lightness: 0.02229675673879683
+  saturation: 0.03611934999935329
+  rhythmicContrast: 0.2056302458513528
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: adormecida
