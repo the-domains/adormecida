@@ -1,14 +1,32 @@
-layout_spectrum: 0.7588346616830677
-typography_spectrum: 0.7795562418177724
-color:
-  brandStrength: 0.3332761113997549
-  lightness: 0.02229675673879683
-  saturation: 0.03611934999935329
-  rhythmicContrast: 0.2056302458513528
-  brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+layout_spectrum: 1
+description: primeira parte da trilogia das assassinas
 name: adormecida
+title: adormecida
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
+navigation:
+  - id: 6699c384-eae5-4713-aca6-23ad9ef3a168
+    name: contato
+    type: content
+typography_spectrum: 0
+color:
+  brandStrength: 0.7932331
+  lightness: 0
+  saturation: 0.6854637
+  rhythmicContrast: 0.7481203
+  brandColors:
+    - '#0C0707'
+    - '#383851'
+    - '#A4ABAE'
+    - '#F6E64B'
+    - '#F09B40'
