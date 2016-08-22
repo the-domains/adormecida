@@ -4,7 +4,7 @@
         <description><![CDATA[adormecida]]></description>
         <link>https://thegrid.ai/adormecida/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Aug 2016 00:28:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2016 00:29:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/adormecida/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -33,13 +33,6 @@
             <link>https://thegrid.ai/adormecida/44a247b4-e4e9-4c5d-83a0-a95e71100b51/index.html</link>
             <guid isPermaLink="false">44a247b4-e4e9-4c5d-83a0-a95e71100b51</guid>
             <pubDate>Sun, 21 Aug 2016 17:48:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/581efc4c-3233-44bd-8984-d5baa27ac176.jpg">]]></description>
-            <link>https://thegrid.ai/adormecida/cc1780b4-fe44-4314-8ba7-812b0a4a6c1d/index.html</link>
-            <guid isPermaLink="false">cc1780b4-fe44-4314-8ba7-812b0a4a6c1d</guid>
-            <pubDate>Sun, 21 Aug 2016 17:48:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
