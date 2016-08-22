@@ -4,8 +4,15 @@
         <description><![CDATA[adormecida]]></description>
         <link>https://thegrid.ai/adormecida/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Aug 2016 00:30:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2016 00:30:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/adormecida/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e196b81-0642-4148-95c5-351bdc1e05f5.jpg" alt="Camilo Pellegrini &eacute; Joyzienne">]]></description>
+            <link>https://thegrid.ai/adormecida/a3c37f34-7f4c-4851-b0d9-d59637cfd749/index.html</link>
+            <guid isPermaLink="false">a3c37f34-7f4c-4851-b0d9-d59637cfd749</guid>
+            <pubDate>Mon, 22 Aug 2016 00:30:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/02d6ac8f-f6db-470d-9a41-61c9d689fb08.jpg" alt="Cec&iacute;lia Hoeltz &eacute; Siliconada">]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/adormecida/adf8e0f7-6b69-41ab-b5dd-c82f33702ca8/index.html</link>
             <guid isPermaLink="false">adf8e0f7-6b69-41ab-b5dd-c82f33702ca8</guid>
             <pubDate>Mon, 22 Aug 2016 00:26:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e196b81-0642-4148-95c5-351bdc1e05f5.jpg">]]></description>
-            <link>https://thegrid.ai/adormecida/a3c37f34-7f4c-4851-b0d9-d59637cfd749/index.html</link>
-            <guid isPermaLink="false">a3c37f34-7f4c-4851-b0d9-d59637cfd749</guid>
-            <pubDate>Sun, 21 Aug 2016 17:48:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
